@@ -1,7 +1,6 @@
 {
 	"id": "Deckception",
 	"name": "Deckception",
-	"display_name": "",
 	"author": ["Jedi"],
 	"description": "Adds 15 new Jokers based on the 15 playable decks!",
 	"prefix": "deckception",
